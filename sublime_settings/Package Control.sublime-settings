@@ -1,0 +1,22 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"Babel",
+		"JavaScript Snippets",
+		"JsFormat",
+		"JSHint",
+		"Package Control",
+		"Pretty JSON",
+		"Ruby Slim",
+		"Sass",
+		"SideBarEnhancements",
+		"SublimeLinter-contrib-mdl",
+		"Surround",
+		"Vintageous",
+		"VintageousOrigami"
+	]
+}
